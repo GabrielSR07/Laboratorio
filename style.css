@@ -1,0 +1,36 @@
+body {
+    background: #eee;
+}
+
+#form {
+    border: solid gray 1px;
+    width: 100%;
+    border-radius: 5px; 
+    margin: 100px auto;
+    background: white;
+    padding: 50px;
+    min-width: 100%;
+}
+
+
+/*
+#btn {
+    color: #fff; 
+    background: #337ab7; 
+    padding: 5px; 
+    margin-left:  69%; 
+
+} */
+
+#alert {
+    border: thin red 1px;
+    background: rgba(252, 128, 128, 0.856);
+}
+
+.header {
+	padding: 20px;
+	text-align: center;
+	background: #69cfbbea;
+	color: black;
+	font-size: 30px;
+  }
